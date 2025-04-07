@@ -9,8 +9,8 @@ my primary focus is on backend development, I am also proficient in Angular, whi
 projects and front-end development. </p>
 
 <p>In addition to honing my software development skills, I've recently delved into the world of microcontrollers and embedded systems. 
-I love tinkering with various electronic components, learning more about the hardware of the machine, gaining a greater appreciation
-for the full scope of I/O processes. </p>
+I love tinkering with various electronic components, learning more about the hardware of the machine, and gaining a greater appreciation
+for I/O processes. </p>
 
 <p>I'm always eager to learn new technologies and best practices in the industry. 
 As I approach graduation, I'm excited to continue applying my knowledge to real-world projects and contribute to the development of innovative software solutions.</p>
